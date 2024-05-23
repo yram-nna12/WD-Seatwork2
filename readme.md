@@ -109,5 +109,4 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Black and White Simple Office Assistant Resume|Resume reference|https://www.canva.com/design/DAGFEcY4Sms/OCnThG2tX1NrQqk9RVhvYQ/edit|
